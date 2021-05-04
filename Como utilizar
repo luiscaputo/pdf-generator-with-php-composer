@@ -1,0 +1,7 @@
+Requisito para executar este projecto.
+*** Antes de tudo executar o codigo que esta no arquivo BaseDados.sql em um sgbd.
+***Ter um servidor apache  e o php instalado na maquina.
+*** Ter o composer instalado na maquina(link:https://getcomposer.org/download/).
+***executar este comando na linha de comando(comando:composer update).
+***executar o projecto.
+Viste como caputo.
